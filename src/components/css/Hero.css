@@ -1,0 +1,22 @@
+
+.hero{
+    background-image: url('https://images.contentstack.io/v3/assets/blt07ba89b1c6044a17/blt95962403a5f7de76/6443cd89dd9b312c696c9bb1/travel_hero.jpeg');
+    height: 680px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 60%;
+}
+
+.hero p{
+    font-size: 28px !important;
+    color: white;
+}
+
+.where-to{
+    padding: 10px;
+    right: 10%;
+    bottom: -35px;
+    background-color: #FF3B52;
+    height: 250px;
+    width: 300px;
+}
